@@ -1,0 +1,14 @@
+{
+    "name": "mangore/testcomposer",
+    "description": "paquete d eprueba de composer",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ricardo Mangore",
+            "email": "ricardomangore@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
