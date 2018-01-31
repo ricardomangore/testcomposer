@@ -1,5 +1,5 @@
 {
-    "name": "mangore/testcomposer",
+    "name": "ricardomangore/testcomposer",
     "description": "paquete d eprueba de composer",
     "keywords" : ["laravel", "test", "plugin"],
     "type": "composer-plugin",
