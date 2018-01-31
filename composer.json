@@ -1,6 +1,7 @@
 {
     "name": "mangore/testcomposer",
     "description": "paquete d eprueba de composer",
+    "keywords" : ["laravel", "test", "plugin"],
     "type": "composer-plugin",
     "license": "MIT",
     "authors": [
@@ -9,6 +10,7 @@
             "email": "ricardomangore@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "prfer-stable": true,
+    "minimum-stability": "dev",
     "require": {}
 }
